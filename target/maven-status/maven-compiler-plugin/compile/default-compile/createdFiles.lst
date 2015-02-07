@@ -1,0 +1,7 @@
+com/dictionary/Application.class
+com/dictionary/Synonym.class
+exception/SynonymNotFound.class
+com/dictionary/service/Dictionary.class
+com/dictionary/util/DictdUtils.class
+com/dictionary/controller/SynonymsController.class
+com/dictionary/service/Dictd.class

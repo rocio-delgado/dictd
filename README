@@ -1,0 +1,3 @@
+To run the code from within the project directory simply run "mvn spring-boot:run"
+
+Otherwise you can create a Jar file by running "mvn clean package" and then running java -jar target/dictd-rest-service-1.0-SNAPSHOT.jar
