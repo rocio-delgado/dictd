@@ -1,0 +1,12 @@
+# IDE Files #
+#############
+# IntelliJ files
+*.iml
+*.impl
+*.ipr
+*.iws
+.idea/
+
+# Compiled source #
+###################
+*.class
